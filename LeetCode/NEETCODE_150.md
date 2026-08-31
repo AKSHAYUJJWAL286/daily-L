@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 2 / 150 (1.3%)
+- **Completed:** 3 / 150 (2.0%)
 
 ---
 
@@ -130,7 +130,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] House Robber II
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substrings
-- [ ] Decode Ways
+- [x] [Decode Ways](./Java/Medium/91. Decode Ways/)
 - [ ] Coin Change
 - [ ] Maximum Product Subarray
 - [ ] Word Break
