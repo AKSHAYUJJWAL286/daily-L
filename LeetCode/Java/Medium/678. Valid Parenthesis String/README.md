@@ -8,8 +8,8 @@
 String, Dynamic Programming, Stack, Greedy, Bracket Sequences
 
 ### 🚀 Performance
-- **Runtime:** 1 ms
-- **Memory:** 43.5 MB
+- **Runtime:** 57 ms
+- **Memory:** 44 MB
 
 ---
 
